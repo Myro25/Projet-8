@@ -2,17 +2,17 @@ const projects = [
     {
         nom: "Kaza",
         langage: "React SCSS",
-        image: "Kasa.png",
+        image: "/image/Kasa.png",
         projet: "Openclassrooms",
-        description: "Ce projet consistait a utiliser le frameworks React qui utilise comme language le JSX, complementer avec du SCSS pour ceux qui est du CSS. La grosse difficulté a ete de s'adapter au deux nouveau language mais ayant des bases de JS et de CSS sa a suffit a madapter rapidement",
+        description: "Ce projet consistait à utiliser le framework React, qui utilise le JSX comme langage, complété avec du SCSS pour ce qui est du CSS. La principale difficulté a été de s'adapter aux deux nouveaux langages, mais ayant des bases en JS et en CSS, cela m'a suffi pour m'adapter rapidement.",
         link: "lien_vers_votre_projet_ici"
     },
     {
         nom: "Booki",
         langage: "HTML CSS",
-        image: "Booki.png",
+        image: "/image/Booki.png",
         projet: "Openclassrooms",
-        description: "Ce projet consistait a rentrer dans le bain du développmeent web en utilisant les deux language primaire HTML et CSS. Grace a ceux projet les projet suivant concerant la creation de page ou de design a ete plus simple a comprendre et a crée",
+        description: "Ce projet consistait à plonger dans le développement web en utilisant les deux langages primaires HTML et CSS. Grâce à ce projet, les projets suivants concernant la création de pages ou de designs ont été plus simples à comprendre et à créer. On pourra comprendre énormément de choses.",
         link: "lien_vers_votre_projet_ici"
     }
 ];
